@@ -1,4 +1,4 @@
-## Fangzhou LIN
+## Fangzhou Lin
 Email: flin2 AT wpi.edu ; lin.fangzhou.p2 AT dc.tohoku.ac.jp ; linfangzhou2018 AT outlook.com
 
 I am a visitng student at WPI VISLab supervised by Professor Ziming Zhang.
