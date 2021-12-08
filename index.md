@@ -9,6 +9,3 @@ I am also a PhD student at GSIS Tohoku University supervised by Yamada K.D. Befo
 2. Yamada KD, Lin F, Nakamura T, Developing a novel recurrent neural network architecture with fewer parameters and good learning performance, Interdisciplinary Information Sciences, 27(1):25-40, 2021. [link](https://www.jstage.jst.go.jp/article/iis/advpub/0/advpub_2020.R.01/_article/-char/en)
 3. Xu, Y., Arai, S., Liu, D., Lin, F., & Kosuge, K. (2020). FPCC: Fast Point Cloud Clustering for Instance Segmentation. arXiv preprint arXiv:2012.14618. [link](https://arxiv.org/abs/2012.14618)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
