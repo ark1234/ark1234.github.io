@@ -1,36 +1,14 @@
 ## Fangzhou LIN (Ark)
 
-You can use the [editor on GitHub](https://github.com/ark1234/ark1234.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a visitng student at WPI VISLab supervised by Professor Ziming Zhang.
+I am also a PhD student at GSIS Tohoku University supervised by Yamada K.D. Before that, I got MS degree in GSIS from Tohoku University too.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Publications
 
-### Markdown
-
+1. Lin F, Gao C, Yamada KD, An effective convolutional neural network for visualized understanding transboundary air pollution based on Himawari-8 satellite images, IEEE Geoscience and Remote Sensing Letters, 2021. [link](https://ieeexplore.ieee.org/document/9512552)
+2. Yamada KD, Lin F, Nakamura T, Developing a novel recurrent neural network architecture with fewer parameters and good learning performance, Interdisciplinary Information Sciences, 27(1):25-40, 2021 [link](https://www.jstage.jst.go.jp/article/iis/advpub/0/advpub_2020.R.01/_article/-char/en)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ark1234/ark1234.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+3. Xu, Y., Arai, S., Liu, D., Lin, F., & Kosuge, K. (2020). FPCC: Fast Point Cloud Clustering for Instance Segmentation. arXiv preprint arXiv:2012.14618. [link](https://arxiv.org/abs/2012.14618)
 
 ### Support or Contact
 
