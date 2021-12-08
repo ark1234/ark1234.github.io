@@ -1,4 +1,4 @@
-## Fangzhou LIN (Ark)
+## Fangzhou LIN
 
 I am a visitng student at WPI VISLab supervised by Professor Ziming Zhang.
 I am also a PhD student at GSIS Tohoku University supervised by Yamada K.D. Before that, I got MS degree in GSIS from Tohoku University too.
