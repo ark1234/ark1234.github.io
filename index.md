@@ -1,5 +1,5 @@
 ## Fangzhou LIN
-
+# Email: flin2 AT wpi.edu ; lin.fangzhou.p2 AT dc.tohoku.ac.jp ; linfangzhou2018 AT outlook.com
 I am a visitng student at WPI VISLab supervised by Professor Ziming Zhang.
 I am also a PhD student at GSIS Tohoku University supervised by Yamada K.D. Before that, I got MS degree in GSIS from Tohoku University too.
 
