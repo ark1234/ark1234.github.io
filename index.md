@@ -7,7 +7,7 @@ I am also a PhD student at GSIS Tohoku University supervised by Yamada K.D. Befo
 
 # Publications
 
-1. Lin F, Xu Y, Zhang Z, Gao C, Yamada KD, Cosmos Propagation Network: Deep Learning Model for Point Cloud Completion, Neurocomputing, accepted, 2022.
+1. Lin F, Xu Y, Zhang Z, Gao C, Yamada KD, Cosmos Propagation Network: Deep Learning Model for Point Cloud Completion, Neurocomputing, 507:221-234, 2022.
 2. Yamada KD, Baladram MS, Lin F, Progress in research on implementing machine consciousness, Interdisciplinary Information Sciences, accepted, 2022.
 3. Xu, Y., Arai, S., Liu, D., Lin, F., & Kosuge, K. . FPCC: Fast Point Cloud Clustering-based Instance Segmentation for Industrial Bin-picking. Neurocomputing, 2022, ISSN 0925-2312.[link](https://www.sciencedirect.com/science/article/pii/S0925231222003915)
 4. Lin F, Gao C, Yamada KD, An effective convolutional neural network for visualized understanding transboundary air pollution based on Himawari-8 satellite images, IEEE Geoscience and Remote Sensing Letters, 2021, 19, 1-5. [link](https://ieeexplore.ieee.org/document/9512552)
