@@ -7,12 +7,15 @@ I am also a PhD student at GSIS Tohoku University supervised by Yamada K.D. Befo
 
 # Publications
 
-1. Lin F, Xu Y, Zhang Z, Gao C, Yamada KD, Cosmos Propagation Network: Deep Learning Model for Point Cloud Completion, Neurocomputing, 507:221-234, 2022. [link](https://www.sciencedirect.com/science/article/pii/S0925231222009821)
-2. Yamada KD, Baladram MS, Lin F, Progress in research on implementing machine consciousness, Interdisciplinary Information Sciences, 28(1):95-105, 2022. [link](https://www.jstage.jst.go.jp/article/iis/28/1/28_2022.R.02/_article/-char/en) 
-3. Xu, Y., Arai, S., Liu, D., Lin, F., & Kosuge, K. . FPCC: Fast Point Cloud Clustering-based Instance Segmentation for Industrial Bin-picking. Neurocomputing, 2022, ISSN 0925-2312.[link](https://www.sciencedirect.com/science/article/pii/S0925231222003915)
-4. Lin F, Gao C, Yamada KD, An effective convolutional neural network for visualized understanding transboundary air pollution based on Himawari-8 satellite images, IEEE Geoscience and Remote Sensing Letters, 2021, 19, 1-5. [link](https://ieeexplore.ieee.org/document/9512552)
-5. Yamada KD, Lin F, Nakamura T, Developing a novel recurrent neural network architecture with fewer parameters and good learning performance, Interdisciplinary Information Sciences, 27(1):25-40, 2021. [link](https://www.jstage.jst.go.jp/article/iis/advpub/0/advpub_2020.R.01/_article/-char/en)
+1. Gao C, Cai G, Jiang X, Zheng F, Zhang J, Gong Y, Lin F, Sun X, Bai X, Conditional Feature Learning based Transformer for Text- Based Person Search, IEEE Transactions on Image Processing, 2022, accepted.
+2. Lin F, Xu Y, Zhang Z, Gao C, Yamada KD, Cosmos Propagation Network: Deep Learning Model for Point Cloud Completion, Neurocomputing, 507:221-234, 2022. [link](https://www.sciencedirect.com/science/article/pii/S0925231222009821)
+3. Yamada KD, Baladram MS, Lin F, Progress in research on implementing machine consciousness, Interdisciplinary Information Sciences, 28(1):95-105, 2022. [link](https://www.jstage.jst.go.jp/article/iis/28/1/28_2022.R.02/_article/-char/en) 
+4. Xu, Y., Arai, S., Liu, D., Lin, F., & Kosuge, K. . FPCC: Fast Point Cloud Clustering-based Instance Segmentation for Industrial Bin-picking. Neurocomputing, 2022, ISSN 0925-2312.[link](https://www.sciencedirect.com/science/article/pii/S0925231222003915)
+5. Lin F, Gao C, Yamada KD, An effective convolutional neural network for visualized understanding transboundary air pollution based on Himawari-8 satellite images, IEEE Geoscience and Remote Sensing Letters, 2021, 19, 1-5. [link](https://ieeexplore.ieee.org/document/9512552)
+6. Yamada KD, Lin F, Nakamura T, Developing a novel recurrent neural network architecture with fewer parameters and good learning performance, Interdisciplinary Information Sciences, 27(1):25-40, 2021. [link](https://www.jstage.jst.go.jp/article/iis/advpub/0/advpub_2020.R.01/_article/-char/en)
 
 # Preprint entries
-5. Xu, Y., Arai, S., Liu, D., Lin, F., & Kosuge, K. (2020). FPCC: Fast Point Cloud Clustering for Instance Segmentation. arXiv preprint arXiv:2012.14618. [link](https://arxiv.org/abs/2012.14618)
+7. Xu, Y., Arai, S., Liu, D., Lin, F., & Kosuge, K. (2020). FPCC: Fast Point Cloud Clustering for Instance Segmentation. arXiv preprint arXiv:2012.14618. [link](https://arxiv.org/abs/2012.14618)
+
+
 
