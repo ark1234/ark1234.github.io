@@ -7,8 +7,8 @@ I am also a PhD student at GSIS Tohoku University supervised by Yamada K.D. Befo
 
 # Publications
 
-1. Gao C, Cai G, Jiang X, Zheng F, Zhang J, Gong Y, Lin F, Sun X, Bai X. Conditional Feature Learning based Transformer for Text-Based Person Search. IEEE Transactions on Image Processing. 2022 Sep 14. [link](https://ieeexplore.ieee.org/abstract/document/9893017)
-2. Yamada KD, Baladram MS, Lin F, Relation is an option for processing context information, Frontiers in Artificial Intelligence, accepted, 2022
+1. Yamada KD, Baladram MS, Lin F, Relation is an option for processing context information, Frontiers in Artificial Intelligence, accepted, 2022 
+2. Gao C, Cai G, Jiang X, Zheng F, Zhang J, Gong Y, Lin F, Sun X, Bai X. Conditional Feature Learning based Transformer for Text-Based Person Search. IEEE Transactions on Image Processing. 2022 Sep 14. [link](https://ieeexplore.ieee.org/abstract/document/9893017)
 3. Lin F, Xu Y, Zhang Z, Gao C, Yamada KD, Cosmos Propagation Network: Deep Learning Model for Point Cloud Completion, Neurocomputing, 507:221-234, 2022. [link](https://www.sciencedirect.com/science/article/pii/S0925231222009821)
 4. Yamada KD, Baladram MS, Lin F, Progress in research on implementing machine consciousness, Interdisciplinary Information Sciences, 28(1):95-105, 2022. [link](https://www.jstage.jst.go.jp/article/iis/28/1/28_2022.R.02/_article/-char/en) 
 5. Xu, Y., Arai, S., Liu, D., Lin, F., & Kosuge, K. . FPCC: Fast Point Cloud Clustering-based Instance Segmentation for Industrial Bin-picking. Neurocomputing, 2022, ISSN 0925-2312.[link](https://www.sciencedirect.com/science/article/pii/S0925231222003915)
