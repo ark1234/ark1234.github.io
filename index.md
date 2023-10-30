@@ -7,7 +7,7 @@ I am also a PhD student at GSIS Tohoku University supervised by Yamada K.D. Befo
 
 # Publications
 1. Yue Y, Lin F, Guanyi Mou, Zhang Z, Understanding Hyperbolic Metric Learning through Hard Negative Sampling. In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2024.
-2. Lin F\*, Yue Y\*, Zhang Z, Hou S, Yamada KD, Kolachalama VB, Saligrama V, InfoCD: A Contrastive Chamfer Distance Loss for Point Cloud Completion. In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2023.
+2. Lin F, Yue Y, Zhang Z, Hou S, Yamada KD, Kolachalama VB, Saligrama V, InfoCD: A Contrastive Chamfer Distance Loss for Point Cloud Completion. In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2023.
 3. Lin F, Yue Y, Hou S, Yu X, Xu Y, Yamada KD, Zhang Z, Hyperbolic Chamfer Distance for Point Cloud Completion. In Proceeding of International Conference on Computer Vision (ICCV), 2023.
 4. Yamada KD, Baladram MS, Lin F, Relation is an option for processing context information, Frontiers in Artificial Intelligence, Frontiers in Artificial Intelligence, 5:924688, 2022. [link](https://doi.org/10.3389/frai.2022.924688)
 5. Gao C, Cai G, Jiang X, Zheng F, Zhang J, Gong Y, Lin F, Sun X, Bai X. Conditional Feature Learning based Transformer for Text-Based Person Search. IEEE Transactions on Image Processing. 2022 Sep 14. [link](https://ieeexplore.ieee.org/abstract/document/9893017)
