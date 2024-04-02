@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lehong Wang"
+title: "Fangzhou Lin"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
