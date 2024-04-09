@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lehong Wang"
+title                    : "Fangzhou Lin"
 title_separator          : "-"
-name                     : &name "Lehong Wang"
-description              : &description "Undergrad at WPI (Worcester Polytechnic Instituite)"
-url                      : https://lehong-wang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dr. Fangzhou Lin"
+description              : &description "Research Assistant at WPI (Worcester Polytechnic Instituite) Visiting Scholar at Tohoku University"
+url                      : https://ark1234.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lehong-wang.github.io"
+repository               : "ark1234.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lehong Wang"
-  avatar           : "profile.png"
-  bio              : "Undergrad at WPI (Worcester Polytechnic Instituite)"
+  name             : "Fangzhou Lin"
+  avatar           : "FangzhouLin.jpg"
+  bio              : "Research Assistant at WPI (Worcester Polytechnic Instituite) Visiting Scholar at Tohoku University"
   location         : "Massachusetts, US"
   employer         :
   pubmed           :
   googlescholar    : 
-  email            : "lwang11@wpi.edu"
+  email            : "flin2@wpi.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lehong-wang"
+  github           : "ark1234"
   google_plus      :
   keybase          :
   instagram        :
