@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research assistant in [Medical FUSION Laboratory](https://wp.wpi.edu/medicalfusionlab/) and [Vision, Intelligence, and System Laboratory (VISLab)](https://zhang-vislab.github.io) at [Worcester Polytechnic Institute](https://www.wpi.edu/) (WPI). I am also a visiting scholar in [Yamada Lab](https://yamada-lab.gr.jp/en/index.html) at [Tohoku University](https://www.tohoku.ac.jp/en/).
+I am currently a research assistant in [Medical FUSION Laboratory](https://wp.wpi.edu/medicalfusionlab/) and [Vision, Intelligence, and System Laboratory (VISLab)](https://zhang-vislab.github.io) at [Worcester Polytechnic Institute](https://www.wpi.edu/) (WPI). I am also a visiting researcher in [Yamada Lab](https://yamada-lab.gr.jp/en/index.html) at [Tohoku University](https://www.tohoku.ac.jp/en/).
 
 
 <!-- I am currently a research assistant in Robotic Engineering and Computer Engineering at [Worcester Polytechnic Institute](https://www.wpi.edu/) (WPI).
