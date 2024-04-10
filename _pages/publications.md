@@ -30,6 +30,8 @@ Yue Y, **Lin F**, Guanyi Mou, Zhang Z, [Understanding Hyperbolic Metric Learning
 
 **Lin F**, Yue Y, Zhang Z, Hou S, Yamada KD, Kolachalama VB, Saligrama V, [InfoCD: A Contrastive Chamfer Distance Loss for Point Cloud Completion.](https://proceedings.neurips.cc/paper_files/paper/2023/file/f2ea1943896474b7cd9796b93e526f6f-Paper-Conference.pdf) In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2023.
 
+**Lin F**, Yue Y, Hou S, Yu X, Xu Y, Yamada KD, Zhang Z, [Hyperbolic Chamfer Distance for Point Cloud Completion.](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_Hyperbolic_Chamfer_Distance_for_Point_Cloud_Completion_ICCV_2023_paper.pdf) In Proceeding of International Conference on Computer Vision (ICCV), 2023.
+
 Yamada KD, Baladram MS, **Lin F**, [Relation is an option for processing context information](https://doi.org/10.3389/frai.2022.924688), Frontiers in Artificial Intelligence, 5:924688, 2022. 
 
 Gao C, Cai G, Jiang X, Zheng F, Zhang J, Gong Y, **Lin F**, Sun X, Bai X. [Conditional Feature Learning based Transformer for Text-Based Person Search](https://ieeexplore.ieee.org/abstract/document/9893017). IEEE Transactions on Image Processing. 2022 Sep 14.
