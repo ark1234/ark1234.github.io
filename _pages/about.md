@@ -16,7 +16,7 @@ I am a research assistant at [Robotic Materials Group](https://wp.wpi.edu/roboti
 I have also worked as a research intern in the [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/).
  -->
 
-My research areas lie in computer vision and machine learning, especially in deep learning, point cloud processing, medical data analysis, optimization, 2D/3D object recognition/detection/segmentation, person re-identification, satellite image process. 
+My research areas lie in computer vision and machine learning, especially in deep learning, point cloud processing, medical data analysis, optimization, 2D/3D object detection/segmentation, person re-identification, satellite image process. 
 <!-- My research focuses on the application of additive manufacturing technology to the fabrication of made-to-order robots.  -->
 <!-- My recent works have been on employing computer vision and computer graphics technechnics to improve the manufacturing process. -->
 
@@ -43,7 +43,7 @@ Reviewer of **International Conference on Medical Image Computing and Computer-A
   /
   <a href="https://ark1234.github.io//publications/">Publications</a>
   /
-  <a href="https://ark1234.github.io//files/Lehong_Wang_CV.pdf">CV</a>
+  <a href="https://ark1234.github.io//files/Fangzhou_Lin_CV.pdf">CV</a>
 </p>
 
 <br/>
