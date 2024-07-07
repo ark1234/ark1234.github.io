@@ -24,6 +24,8 @@ My research areas lie in computer vision and machine learning, especially in dee
 
 # News
 
+- Our paper: *Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance* has been accepted by **IEEE IROS 2024** as an Oral presentation!
+
 - Our paper: *Understanding Hyperbolic Metric Learning through Hard Negative Sampling* has been accepted by **IEEE WACV 2024**!
 
 - Our paper: *InfoCD: A Contrastive Chamfer Distance Loss for Point Cloud Completion* has been accepted by **NeurIPS 2023**!
