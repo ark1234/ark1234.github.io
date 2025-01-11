@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research assistant at [Worcester Polytechnic Institute](https://www.wpi.edu/) (WPI). I am also a visiting Researcher in [Yamada Lab](https://yamada-lab.gr.jp/en/index.html) at [Tohoku University](https://www.tohoku.ac.jp/en/).
+<!-- I am currently a research assistant at [Worcester Polytechnic Institute](https://www.wpi.edu/) (WPI). I am also a visiting Researcher in [Yamada Lab](https://yamada-lab.gr.jp/en/index.html) at [Tohoku University](https://www.tohoku.ac.jp/en/). -->
 
 
 <!-- I am currently a research assistant in Robotic Engineering and Computer Engineering at [Worcester Polytechnic Institute](https://www.wpi.edu/) (WPI).
