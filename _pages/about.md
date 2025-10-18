@@ -16,13 +16,16 @@ I am a research assistant at [Robotic Materials Group](https://wp.wpi.edu/roboti
 I have also worked as a research intern in the [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/).
  -->
 
-My research areas lie in computer vision and machine learning, especially in deep learning, point cloud processing, medical data analysis, optimization, 2D/3D object detection/segmentation, person re-identification, satellite image process. 
+My research areas lie in agentic AI, multimodal AI, generative AI, especially in LLM, vision-language models, MLLM, 3D generative models, 3D perception, AI for medical, AI4Sci. 
 <!-- My research focuses on the application of additive manufacturing technology to the fabrication of made-to-order robots.  -->
 <!-- My recent works have been on employing computer vision and computer graphics technechnics to improve the manufacturing process. -->
 
 <br/>
 
 # News
+
+
+- Our paper: *GPS: A Probabilistic Distributional Similarity with Gumbel Priors for Set-to-Set Matching* has been accepted by **ICLR 2025**!
 
 - Our paper: *Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance* has been accepted by **IEEE IROS 2024** as an Oral presentation!
 
@@ -35,9 +38,9 @@ My research areas lie in computer vision and machine learning, especially in dee
 <br/>
 
 # Service
-Reviewer of **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**
 
-Reviewer of **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**
+
+Reviewer of **ICLR, NeurIPS, CVPR, ICCV, IROS, MICCAI**
 <br/>
 
 <p style="text-align: center;"> 
