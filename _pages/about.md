@@ -1,64 +1,103 @@
 ---
 permalink: /
 title: "Fangzhou Lin"
-excerpt: "About me"
+excerpt: "Research in intelligent systems, computer vision, and multimodal AI"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<!-- I am currently a research assistant at [Worcester Polytechnic Institute](https://www.wpi.edu/) (WPI). I am also a visiting Researcher in [Yamada Lab](https://yamada-lab.gr.jp/en/index.html) at [Tohoku University](https://www.tohoku.ac.jp/en/). -->
+I am a Research Scientist at **Robert Bosch LLC** and a Research Associate at **Texas A&M University**. I received my Ph.D. in Computer Science and Data Science from **Tohoku University**.
 
+My research develops learning-based perception, predictive world models and planning, 3D reconstruction, computational imaging, and trustworthy multimodal AI. I work across mathematical formulation, reproducible systems implementation, and real-world validation in autonomous driving, robotics, and biomedical imaging.
 
-<!-- I am currently a research assistant in Robotic Engineering and Computer Engineering at [Worcester Polytechnic Institute](https://www.wpi.edu/) (WPI).
-I am a research assistant at [Robotic Materials Group](https://wp.wpi.edu/roboticmaterialsgroup/) at WPI under the supervision of [Prof. Markus Nemitz](https://www.wpi.edu/people/faculty/mnemitz).
-I have also worked as a research intern in the [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/).
- -->
+<div class="profile-links">
+  <a href="mailto:fangzhoulinark@gmail.com">Email</a>
+  <a href="https://scholar.google.co.jp/citations?user=ninTViIAAAAJ&hl=en">Google Scholar</a>
+  <a href="https://www.linkedin.com/in/fangzhou-ark-lin/">LinkedIn</a>
+  <a href="/files/Fangzhou_Lin_CV.pdf">CV</a>
+</div>
 
-My research areas lie in agentic AI, multimodal AI, generative AI, especially in LLM, vision-language models, MLLM, 3D generative models, 3D perception, AI for medical, AI4Sci. 
-<!-- My research focuses on the application of additive manufacturing technology to the fabrication of made-to-order robots.  -->
-<!-- My recent works have been on employing computer vision and computer graphics technechnics to improve the manufacturing process. -->
+<section class="selected-publications" id="selected-publications">
+  <div class="section-heading">
+    <h2>Selected Publications</h2>
+    <a href="/publications/">View all publications &rarr;</a>
+  </div>
 
-<br/>
+  <article class="publication-card">
+    <div class="publication-meta"><span>CVPR</span><time>2026</time></div>
+    <h3><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Lin_NexusFlow_Unifying_Disparate_Tasks_under_Partial_Supervision_via_Invertible_Flow_CVPR_2026_paper.html">NexusFlow: Unifying Disparate Tasks under Partial Supervision via Invertible Flow Networks</a></h3>
+    <p><strong>Fangzhou Lin</strong>, Yuping Wang, Yuliang Guo, Zixun Huang, Xinyu Huang, Haichong Zhang, et al.</p>
+    <p class="publication-summary">A lightweight framework for jointly learning structurally different perception tasks when annotations are incomplete and geographically shifted.</p>
+    <p class="publication-actions"><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Lin_NexusFlow_Unifying_Disparate_Tasks_under_Partial_Supervision_via_Invertible_Flow_CVPR_2026_paper.html">Paper</a><a href="https://github.com/ark1234/NexusFlow">Code</a></p>
+  </article>
 
-# News
+  <article class="publication-card">
+    <div class="publication-meta"><span>CVPR</span><time>2026</time></div>
+    <h3><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Pantheon360_Taming_Digital_Twin_Generation_via_3D-Aware_360deg_Video_Diffusion_CVPR_2026_paper.html">Pantheon360: Taming Digital Twin Generation via 3D-Aware 360&deg; Video Diffusion</a></h3>
+    <p>Ting-Hsuan Chen, Ying-Huan Chen, Tao Tu, Jie-Ying Lee, Cho-Ying Wu, <strong>Fangzhou Lin</strong>, et al.</p>
+    <p class="publication-summary">A 3D-aware panoramic video diffusion framework for camera-controllable generation and geometrically consistent digital twins.</p>
+    <p class="publication-actions"><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Pantheon360_Taming_Digital_Twin_Generation_via_3D-Aware_360deg_Video_Diffusion_CVPR_2026_paper.html">Paper</a><a href="https://koi953215.github.io/pantheon360_page/">Project</a></p>
+  </article>
 
+  <article class="publication-card">
+    <div class="publication-meta"><span>ICLR</span><time>2025</time></div>
+    <h3><a href="https://gpsprojpage.github.io/">GPS: A Probabilistic Distributional Similarity with Gumbel Priors for Set-to-Set Matching</a></h3>
+    <p><strong>Fangzhou Lin</strong>, Ziming Zhang, Haotian Liu, Jose Morales, Haichong Zhang, Kazunori Yamada, et al.</p>
+    <p class="publication-summary">A probabilistic similarity measure that improves few-shot image classification and 3D point-cloud completion.</p>
+    <p class="publication-actions"><a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/637a456d89289769ac1ab29617ef7213-Paper-Conference.pdf">Paper</a><a href="https://github.com/ark1234/ICLR2025-GPS">Code</a></p>
+  </article>
 
-- Our paper: *GPS: A Probabilistic Distributional Similarity with Gumbel Priors for Set-to-Set Matching* has been accepted by **ICLR 2025**!
+  <article class="publication-card">
+    <div class="publication-meta"><span>Photoacoustics</span><time>2025</time></div>
+    <h3><a href="https://doi.org/10.1016/j.pacs.2025.100729">Spectroscopic Photoacoustic Denoising Framework Using Hybrid Analytical and Data-Free Learning</a></h3>
+    <p><strong>Fangzhou Lin</strong>, Shang Gao, Yichuan Tang, Xihan Ma, Ryo Murakami, et al.</p>
+    <p class="publication-summary">A hybrid analytical and data-free learning method for robust denoising while preserving spectral information.</p>
+    <p class="publication-actions"><a href="https://doi.org/10.1016/j.pacs.2025.100729">Paper</a></p>
+  </article>
 
-- Our paper: *Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance* has been accepted by **IEEE IROS 2024** as an Oral presentation!
+  <article class="publication-card">
+    <div class="publication-meta"><span>TPAMI</span><time>2024</time></div>
+    <h3><a href="https://doi.org/10.1109/TPAMI.2024.3509860">Deep Loss Convexification for Learning Iterative Models</a></h3>
+    <p>Ziming Zhang, Yuping Shao, Yiqing Zhang, <strong>Fangzhou Lin</strong>, Haichong Zhang, Elke Rundensteiner</p>
+    <p class="publication-summary">A learning framework that reshapes test-time loss landscapes to improve convergence in iterative models.</p>
+    <p class="publication-actions"><a href="https://doi.org/10.1109/TPAMI.2024.3509860">Paper</a></p>
+  </article>
 
-- Our paper: *Understanding Hyperbolic Metric Learning through Hard Negative Sampling* has been accepted by **IEEE WACV 2024**!
+  <article class="publication-card">
+    <div class="publication-meta"><span>IROS Oral</span><time>2024</time></div>
+    <h3><a href="https://arxiv.org/abs/2409.06171">Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance</a></h3>
+    <p><strong>Fangzhou Lin</strong>, Haotian Liu, Haoying Zhou, Songlin Hou, Kazunori Yamada, et al.</p>
+    <p class="publication-summary">A parameter-free loss-search approach that distills strong geometric objectives through gradient matching.</p>
+    <p class="publication-actions"><a href="https://arxiv.org/abs/2409.06171">Paper</a><a href="https://github.com/ark1234/IROS2024-LossDistillationWeightedCD">Code</a></p>
+  </article>
 
-- Our paper: *InfoCD: A Contrastive Chamfer Distance Loss for Point Cloud Completion* has been accepted by **NeurIPS 2023**!
+  <article class="publication-card">
+    <div class="publication-meta"><span>NeurIPS</span><time>2023</time></div>
+    <h3><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/f2ea1943896474b7cd9796b93e526f6f-Paper-Conference.pdf">InfoCD: A Contrastive Chamfer Distance Loss for Point Cloud Completion</a></h3>
+    <p><strong>Fangzhou Lin</strong>, Yun Yue, Ziming Zhang, Songlin Hou, Kazunori Yamada, et al.</p>
+    <p class="publication-summary">A contrastive geometric objective that improves point-cloud completion across common architectures and benchmarks.</p>
+    <p class="publication-actions"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/f2ea1943896474b7cd9796b93e526f6f-Paper-Conference.pdf">Paper</a><a href="https://github.com/ark1234/NeurIPS2023-InfoCD">Code</a></p>
+  </article>
 
-- Our paper: *Hyperbolic Chamfer Distance for Point Cloud Completion* has been accepted by **IEEE ICCV 2023**!
+  <article class="publication-card">
+    <div class="publication-meta"><span>ICCV</span><time>2023</time></div>
+    <h3><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Lin_Hyperbolic_Chamfer_Distance_for_Point_Cloud_Completion_ICCV_2023_paper.html">Hyperbolic Chamfer Distance for Point Cloud Completion</a></h3>
+    <p><strong>Fangzhou Lin</strong>, Yun Yue, Songlin Hou, Xuechu Yu, Yajun Xu, Kazunori Yamada, Ziming Zhang</p>
+    <p class="publication-summary">A simple hyperbolic-space distance that reduces outlier sensitivity and improves reconstructed surface quality.</p>
+    <p class="publication-actions"><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Lin_Hyperbolic_Chamfer_Distance_for_Point_Cloud_Completion_ICCV_2023_paper.html">Paper</a><a href="https://github.com/ark1234/ICCV2023-HyperCD">Code</a></p>
+  </article>
+</section>
 
-<br/>
+## News
 
-# Service
+- **2026:** NexusFlow and Pantheon360 were accepted to **CVPR 2026**.
+- **2026:** KANMixer was published in **Scientific Reports**.
+- **2026:** Received the **Gold Prize** in the 3rd AI Mathematical Olympiad Challenge (5th of 3,450 participants globally).
+- **2025:** GPS was accepted to **ICLR 2025**, and SPADE was published in **Photoacoustics**.
+- **2024:** Loss Distillation was presented orally at **IROS 2024**, and Deep Loss Convexification appeared in **TPAMI**.
 
+## Service
 
-Reviewer of **ICLR, NeurIPS, CVPR, ICCV, IROS, MICCAI**
-<br/>
-
-<p style="text-align: center;"> 
-  <a href="https://ark1234.github.io/">Home</a>
-  /
-  <a href="https://ark1234.github.io//publications/">Publications</a>
-  /
-  <a href="https://ark1234.github.io//files/Fangzhou_Lin_CV.pdf">CV</a>
-</p>
-
-<br/>
-
-
-<!-- <iframe 
-  width="560" height="315" 
-  src="https://www.youtube.com/embed/Q5BHOogOOLo?autoplay=1&mute=1" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe> -->
-
+Reviewer for **ICLR, NeurIPS, CVPR, ICCV, IROS, and MICCAI**.
