@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at **Robert Bosch LLC** and a Research Associate at **Texas A&M University**. I received my Ph.D. in Computer Science and Data Science from **Tohoku University**.
+I am a Research Associate at **Texas A&M University**. I received my Ph.D. in Computer Science and Data Science from **Tohoku University**.
 
 My research develops learning-based perception, predictive world models and planning, 3D reconstruction, computational imaging, and trustworthy multimodal AI. I work across mathematical formulation, reproducible systems implementation, and real-world validation in autonomous driving, robotics, and biomedical imaging.
 
